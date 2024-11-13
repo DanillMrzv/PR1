@@ -1,5 +1,5 @@
 ﻿using System;
 
-case "4":
-    Console.WriteLine($"Результат: {a - b}");
+case "5":
+    Console.WriteLine($"Результат: {a * b}");
     break;
