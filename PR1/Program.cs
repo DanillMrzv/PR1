@@ -1,5 +1,12 @@
 ﻿using System;
 
-case "5":
-    Console.WriteLine($"Результат: {a * b}");
+case "6":
+    if (b != 0)
+    {
+        Console.WriteLine($"Результат: {a / b}");
+    }
+    else
+    {
+        Console.WriteLine("Ошибка: деление на ноль.");
+    }
     break;
