@@ -1,6 +1,5 @@
 ﻿using System;
 
-case "2":
-    Console.Write("Введите B: ");
-    b = Convert.ToDouble(Console.ReadLine());
+case "3":
+    Console.WriteLine($"Результат: {a + b}");
     break;
